@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Essa é minha primeira página criada utilizando bootstrap, a idéia de Starbucks foi o que me veio a mente no momento.
+Essa é minha primeira página criada utilizando bootstrap, a idéia de Starbucks foi o que me veio a mente no momento. Uma coisa que achei muito util e interessante é a divisão em colunas que utilizei em containers, agiliza bastante na hora da execução.
 
 ## Layout mobile
 ![Mobile 1](https://media-exp1.licdn.com/dms/image/C562CAQFtqDv39h5AiQ/comment-image-shrink_8192_1280/0/1620310131965?e=1620399600&v=beta&t=dygDtlWMoOD5IdWYpwt_VqnnZ7UY2s3ewdyxNLS-Emc) ![Mobile 2](https://media-exp1.licdn.com/dms/image/C562CAQHXd3lL3D0ZAA/comment-image-shrink_8192_1280/0/1620310141865?e=1620399600&v=beta&t=dfinevvmhEoVbxg3p0W7IavlEHTwr8lawIi8VaWOsbI) ![Mobile 3](https://media-exp1.licdn.com/dms/image/C562CAQG9-af5d_fDVA/comment-image-shrink_8192_1280/0/1620310149336?e=1620399600&v=beta&t=OHNmpdUOr0FXrahtoMLiPrVPzcn8HRqTVu1QrF2hSiE)
